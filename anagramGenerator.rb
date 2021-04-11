@@ -41,16 +41,21 @@ def oneWordGrams wordList, word
 	return newwordList
 end
 
-def multiWordGrams wordList, word
-  #find two  word grams
-  listOfTwoWordCombos = []
-	wordList.each do |n|
-    wordList.each do |m|
-      listOfTwoWordCombos.push(n + " " + m)
-    end
-	end
-  
-  return check listOfTwoWordCombos, word
+def multiWordGrams wordList, word, counter = -1 
+  counter = word.length
+
+  puts wordList.length
+
+  listOfWordCombos= wordList.permutation(counter).to_a
+  gonnaCheck = []
+
+  puts listOfWordCombos.length
+
+  listOfWordCombos.each do |n|
+    gonnaCheck.push(n.join(" ")) 
+  end
+
+  return check gonnaCheck, word
 end
 
 def findAnagram input
