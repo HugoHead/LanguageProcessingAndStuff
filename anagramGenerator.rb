@@ -24,13 +24,20 @@ def isAnagram str1, str2
 end
 
 def check listToCheck, wordToCheck
+	puts "checking"
+
 	returnArray = []
-  runner = ""
+
+	runner = ""
+	counter = 0
+
 	listToCheck.each do |n|
-    runner = removeSpaces (n)
+		print "#{counter} \r"
+		runner = removeSpaces (n)
 		if isAnagram runner, wordToCheck
 			returnArray.push(n)
 		end
+		counter += 1
 	end
 	return returnArray.uniq
 end
@@ -44,20 +51,29 @@ end
 def multiWordGrams wordList, word, counter = -1 
   counter = word.length
 
+  puts "finding permutations"
   puts wordList.length
 
   listOfWordCombos= wordList.permutation(counter).to_a
   gonnaCheck = []
 
-  puts listOfWordCombos.length
+  puts "Merging sets"
 
+  runner = 0
+  tester = ""
   listOfWordCombos.each do |n|
-    gonnaCheck.push(n.join(" ")) 
+  	#print "#{(runner/listOfWordCombos.length)*100}\% complete. \r"
+  	tester = n.join(" ")
+  	print "#{runner}\r"
+  	if (removeSpaces tester).length == word.length
+    	gonnaCheck.push(tester)
+    end
+    runner +=1
   end
 
   return check gonnaCheck, word
 end
-
+ 	
 def findAnagram input
 	input.downcase!
 	input = input.split(' ').join('')
@@ -66,6 +82,7 @@ def findAnagram input
 
 	canadateWords = []
 
+	#find all the words with anything in common with the input
 	$englishWords.each do |n|
 		if anythingInCommon(n.split(''), stringArray)
 			canadateWords.push(n)
@@ -74,6 +91,7 @@ def findAnagram input
 
 	unviableWords = []
 
+	#remove all the words with 
 	canadateWords.each do |m|
 		#see if n has stuff that our word does not
 		if !(m.split('') - stringArray == [])
