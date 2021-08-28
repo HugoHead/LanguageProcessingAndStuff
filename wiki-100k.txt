@@ -1,10 +1,10 @@
 of
 and
 to
-a
 in
 that
 I
+a
 was
 he
 his
@@ -101,7 +101,6 @@ know
 after
 she
 first
-i
 good
 Mr
 down
@@ -266,7 +265,6 @@ On
 cannot
 asked
 small
-ne
 enough
 il
 want
@@ -296,7 +294,6 @@ rather
 My
 thou
 best
-p
 since
 felt
 word
@@ -335,7 +332,6 @@ keep
 money
 mother
 her
-b
 une
 By
 thy
@@ -353,7 +349,6 @@ round
 received
 voice
 believe
-y
 white
 Miss
 anything
@@ -446,7 +441,6 @@ why
 hour
 John
 reason
-M
 forth
 feel
 looking
@@ -495,7 +489,6 @@ seems
 strong
 par
 ten
-O
 England
 possible
 dead
@@ -508,7 +501,6 @@ around
 doubt
 From
 hard
-p
 soul
 ask
 sort
@@ -532,7 +524,6 @@ understand
 show
 lui
 written
-n
 common
 See
 est
@@ -801,7 +792,6 @@ carry
 immediately
 Captain
 unto
-e
 try
 De
 rich
@@ -818,7 +808,6 @@ write
 chance
 regard
 filled
-S
 trees
 ou
 won't
@@ -855,7 +844,6 @@ silence
 May
 broken
 raised
-u
 outside
 getting
 caught
@@ -970,7 +958,6 @@ political
 sister
 trying
 proper
-c
 started
 considered
 British
@@ -1062,7 +1049,6 @@ girls
 intended
 determined
 Indian
-I
 Even
 appears
 step
@@ -1138,8 +1124,6 @@ race
 religious
 West
 Perhaps
-W
-L
 beneath
 Duke
 ill
@@ -1158,7 +1142,6 @@ break
 equal
 eat
 North
-v
 killed
 threw
 physical
@@ -1348,7 +1331,6 @@ prove
 described
 Old
 pure
-a
 floor
 No
 promised
@@ -1377,7 +1359,6 @@ breath
 room
 repeated
 similar
-A
 surprise
 exactly
 place
@@ -1478,7 +1459,6 @@ feelings
 wine
 rising
 lies
-da
 shut
 ships
 settled
@@ -1494,7 +1474,6 @@ daily
 seek
 obtained
 regarded
-F
 national
 tall
 principal
@@ -1510,7 +1489,6 @@ glory
 expressed
 dare
 Mais
-C
 clothes
 importance
 powers
@@ -1556,7 +1534,6 @@ file
 contrary
 fond
 reply
-i
 served
 draw
 tu
@@ -1625,7 +1602,6 @@ established
 golden
 entire
 streets
-B
 intellectual
 employed
 servants
@@ -1648,7 +1624,6 @@ sont
 November
 Thomas
 waited
-o
 stream
 coast
 this
@@ -1682,7 +1657,6 @@ midst
 divine
 En
 distributing
-H
 tells
 papers
 Had
@@ -1703,7 +1677,6 @@ species
 December
 handsome
 worked
-E
 prepare
 sacred
 ain't
@@ -1717,7 +1690,6 @@ pity
 throw
 January
 habit
-J
 weak
 putting
 Congress
@@ -1872,7 +1844,6 @@ farther
 quietly
 hands
 down
-c
 Don
 interests
 occurred
@@ -1902,7 +1873,6 @@ moon
 mention
 box
 struggle
-q
 season
 wounded
 Philip
@@ -1953,9 +1923,7 @@ destroy
 separate
 suffering
 absence
-R
 breast
-ni
 parties
 content
 noise
@@ -2142,7 +2110,6 @@ attached
 was
 to
 instantly
-C
 shame
 rough
 minister
@@ -2333,7 +2300,6 @@ intelligence
 actual
 hidden
 acquaintance
-P
 volume
 Little
 Because
@@ -2350,7 +2316,6 @@ requirements
 praise
 writer
 Mark
-G
 plenty
 delivered
 dust
@@ -2511,7 +2476,6 @@ feet
 Arthur
 fat
 type
-wir
 mistake
 Napoleon
 glorious
@@ -2677,7 +2641,6 @@ lately
 wondered
 temper
 EBOOK
-D
 applicable
 furnished
 afford
@@ -2736,7 +2699,6 @@ behold
 Sometimes
 inquired
 families
-T
 desert
 fire
 mes
@@ -2760,7 +2722,6 @@ companions
 FN
 midnight
 retired
-V
 entre
 possess
 occasionally
@@ -3047,7 +3008,6 @@ END
 pursued
 Sidenote
 treat
-E
 apparent
 earth
 career
@@ -3079,7 +3039,6 @@ scheme
 speaks
 enormous
 pause
-s
 business
 thought
 seine
@@ -3289,7 +3248,6 @@ perceive
 useless
 enthusiasm
 exceedingly
-W
 selbst
 fix
 elements
@@ -3309,7 +3267,6 @@ chez
 cared
 staff
 contributions
-na
 Southern
 prospect
 instrument
@@ -3321,7 +3278,6 @@ fr
 continually
 contents
 leaning
-Y
 slightest
 odd
 cheerful
@@ -3373,7 +3329,6 @@ cet
 display
 accordingly
 college
-n
 actions
 grande
 answered
@@ -3393,7 +3348,6 @@ examined
 faut
 attacked
 fearful
-t
 supreme
 pressure
 prevented
@@ -3499,7 +3453,6 @@ til
 Carolina
 Si
 coffee
-N
 IV
 long
 diese
@@ -3701,7 +3654,6 @@ application
 match
 ours
 dan
-l
 true
 strain
 owe
@@ -3951,7 +3903,6 @@ churches
 songs
 world's
 owed
-B
 pursuit
 performance
 slender
@@ -4003,7 +3954,6 @@ satisfy
 Alas
 financial
 peace
-m
 Foundation's
 copied
 directions
@@ -4603,7 +4553,6 @@ heures
 clothing
 Castle
 knights
-m
 pretend
 emotions
 Ohio
@@ -5026,7 +4975,6 @@ pack
 Douglas
 weapon
 dined
-NA
 calmly
 concept
 beach
@@ -5038,14 +4986,12 @@ clasped
 nephew
 awakened
 loyal
-S
 envy
 celui
 mainly
 Me
 dashed
 esteem
-s
 likes
 cards
 races
@@ -5164,7 +5110,6 @@ Egyptian
 questioned
 Berlin
 gegen
-ta
 rifle
 codes
 greatness
@@ -5305,7 +5250,6 @@ encourage
 push
 induce
 n'a
-V
 best
 infringement
 Put
@@ -5726,7 +5670,6 @@ intentions
 pauvre
 civilized
 project
-f
 acres
 processing
 ici
@@ -5753,7 +5696,6 @@ probability
 severely
 enjoying
 invariably
-d
 seulement
 Tennessee
 sweetness
@@ -5904,7 +5846,6 @@ shirt
 elect
 spoil
 bodily
-K
 instructed
 had
 guilt
@@ -6050,14 +5991,12 @@ quoth
 Release
 Revenue
 lunch
-ob
 ambitious
 solemnly
 perish
 serving
 worldly
 infinitely
-wat
 brains
 niece
 neighbours
@@ -6067,7 +6006,6 @@ timid
 Jew
 planned
 ai
-O
 subdued
 descend
 Non
@@ -6148,7 +6086,6 @@ governed
 firing
 easy
 Assembly
-VIII
 cold
 protested
 Mann
@@ -6199,7 +6136,6 @@ Women
 rows
 curiously
 pain
-så
 delicacy
 Oliver
 quickly
@@ -6299,7 +6235,6 @@ excite
 shew
 dignified
 food
-Hän
 disciples
 relatives
 fees
@@ -6349,7 +6284,6 @@ response
 thief
 exceeding
 foes
-qu'une
 waist
 revelation
 ruled
@@ -6373,7 +6307,6 @@ monument
 ears
 travellers
 apartments
-X
 significant
 Wait
 Jersey
@@ -6389,7 +6322,6 @@ caution
 faithfully
 negroes
 Vienna
-r
 declaring
 Keep
 ending
@@ -6566,7 +6498,6 @@ Bank
 generals
 transferred
 hat
-X
 hesitate
 Anthony
 diesem
@@ -6667,7 +6598,6 @@ avail
 woke
 despise
 Maine
-t
 rejoiced
 cart
 bout
@@ -6767,7 +6697,6 @@ floated
 encouragement
 vexed
 faculties
-g
 balls
 keine
 crops
@@ -6920,7 +6849,6 @@ consumed
 lettre
 concerns
 demanda
-m'a
 Isaac
 ihnen
 preached
@@ -6993,7 +6921,6 @@ books
 blazing
 endured
 sticks
-Q
 bind
 Thence
 checks
@@ -7349,7 +7276,6 @@ superstition
 marrying
 goal
 shrill
-l
 mask
 sire
 modify
@@ -7490,7 +7416,6 @@ slew
 lined
 vow
 forth
-ti
 Times
 code
 indulge
@@ -8083,7 +8008,6 @@ screen
 shan't
 SCENE
 Scripture
-D
 'How
 downward
 suits
@@ -8309,7 +8233,6 @@ controlled
 least
 tranquil
 sensations
-x
 contribute
 detective
 forest
@@ -8347,7 +8270,6 @@ gratified
 Marshal
 obstacles
 compilation
-v
 satisfaction
 mistake
 plantation
@@ -8636,7 +8558,6 @@ Anderson
 cigarette
 crude
 typical
-f
 clothes
 charges
 Wir
@@ -8738,7 +8659,6 @@ admiral
 tolerably
 pension
 computers
-d
 anyhow
 doings
 Thanks
@@ -8819,7 +8739,6 @@ virgin
 sings
 fascinating
 exceed
-P
 forgiveness
 worlds
 disappear
@@ -8913,7 +8832,6 @@ confronted
 crooked
 appreciated
 sleepy
-U
 favored
 oxen
 leaping
@@ -9638,7 +9556,6 @@ signature
 except
 bank
 Edmund
-H
 Read
 Petersburg
 joie
@@ -9880,7 +9797,6 @@ furiously
 another's
 Belgium
 adoption
-N
 arches
 forehead
 Alexandria
@@ -10478,7 +10394,6 @@ cited
 hy
 Hamlet
 Liebe
-M
 deren
 import
 duration
@@ -10907,7 +10822,6 @@ Turner
 waters
 signify
 Ministers
-F
 imply
 violet
 superfluous
@@ -10989,7 +10903,6 @@ blended
 customers
 mistress
 Duchesse
-G
 chickens
 surpassed
 aloof
@@ -11705,7 +11618,6 @@ gateway
 lass
 successful
 call
-ri
 Ib
 beyond
 discontented
@@ -12038,7 +11950,6 @@ discovered
 screw
 guess
 spoon
-b
 purchasing
 gehen
 bientôt
@@ -12676,7 +12587,6 @@ Luis
 proprietors
 heiress
 medal
-x
 ages
 depending
 donnait
@@ -12692,7 +12602,6 @@ charging
 daresay
 peninsula
 redeem
-U
 Shakspeare
 galloping
 observance
@@ -13316,7 +13225,6 @@ doux
 analogous
 ceaseless
 important
-z
 scrub
 preachers
 often
@@ -13780,7 +13688,6 @@ baths
 violets
 civilised
 Madonna
-Na
 peaceable
 remark
 satisfactorily
@@ -13840,7 +13747,6 @@ Internet
 solar
 Padre
 Virtue
-p
 quelquefois
 wearily
 ash
@@ -13913,7 +13819,6 @@ agrees
 copious
 principle
 rents
-T
 meditated
 Knowledge
 abreast
@@ -14446,7 +14351,6 @@ darkest
 operation
 snows
 detta
-Y
 grasses
 shrieks
 Chris
@@ -15709,7 +15613,6 @@ punishments
 tirer
 Brigade
 lap
-K
 nailed
 square
 vas
@@ -15791,7 +15694,6 @@ oss
 visitor
 jeter
 constitutions
-e
 ignorance
 nightmare
 steaming
@@ -15844,7 +15746,6 @@ nonsense
 scanned
 Andre
 inhuman
-s
 weak
 Id
 ebb
@@ -15937,7 +15838,6 @@ hysterical
 mo
 pauvres
 traps
-ar
 birch
 buck
 extensively
@@ -17105,7 +17005,6 @@ prophecies
 rapt
 maze
 nimble
-ra
 whosoever
 Bart
 Vicksburg
@@ -18362,7 +18261,6 @@ levy
 BELOW
 besides
 demeanor
-tra
 Parts
 angered
 untrue
@@ -18862,7 +18760,6 @@ persuasive
 Disney
 friars
 tient
-u
 Como
 Murray's
 Olivier
@@ -18976,7 +18873,6 @@ GOOD
 Lucretia
 Official
 cards
-Wiktionary:Frequency lists/Project Gutenberg 30001-40000|30001-40000
 sucked
 sucking
 Supposing
@@ -19144,7 +19040,6 @@ bientot
 countrymen
 courtship
 presentiment
-w
 Señor
 bereft
 mortally
@@ -20009,7 +19904,6 @@ impure
 obliterated
 patrician
 clings
-h
 justifiable
 surgeons
 venomous
@@ -20944,7 +20838,6 @@ Tat
 Poem
 Arjuna
 Montaigne
-Ni
 False
 commanded
 gases
@@ -21489,7 +21382,6 @@ compter
 gallery
 genie
 musketry
-Q
 stile
 Hutchinson
 constructing
@@ -22367,7 +22259,6 @@ Stranger
 Thomas
 aback
 astonished
-tr
 variety
 Anne's
 Fleming
@@ -24156,7 +24047,6 @@ parish
 Artillery
 plainer
 Area
-J
 Scot
 Suez
 fellers
@@ -25423,7 +25313,6 @@ Keller
 Lupin
 Pandavas
 Walsingham
-d
 mer
 CHURCH
 Cherokee
@@ -26268,7 +26157,6 @@ Doria
 Singapore
 convention
 decorate
-ir
 it....
 management
 quelles
@@ -27012,7 +26900,6 @@ neque
 trophy
 dusk
 enquiries
-j
 Xenophon
 duquel
 improved
@@ -27123,7 +27010,6 @@ zeal
 Babel
 Talking
 Twelfth
-Z
 interred
 locket
 lucht
@@ -27941,7 +27827,6 @@ l'affaire
 liquor
 ombre
 seditious
-twa
 Gonzalo
 jonge
 taught
@@ -28313,7 +28198,6 @@ lungs
 COLLEGE
 Ferris
 Nugent
-Ta
 Wein
 avaricious
 daraus
@@ -29434,7 +29318,6 @@ culminated
 encourages
 judge's
 moccasins
-t
 Echo
 couleurs
 distractions
@@ -29481,7 +29364,6 @@ piped
 repondre
 sert
 wry
-Ar
 Delphine
 Gesetz
 Standish
@@ -30329,7 +30211,6 @@ botanical
 distended
 hob
 insufferable
-q
 supersede
 Ecclesiastical
 adhesion
@@ -32109,7 +31990,6 @@ s'assit
 sommet
 splendor
 surveyor
-D
 Partei
 appreciated
 bacteria
@@ -32290,7 +32170,6 @@ explosion
 related
 Alla
 Hers
-Z
 avril
 boca
 minute's
@@ -32387,7 +32266,6 @@ Train
 Wood
 hemlock
 luo
-n
                                           r
 ornaments
 Blank
@@ -33434,7 +33312,6 @@ scooped
 souffert
 understandings
 IBRD
-NT
 Sat
 Whosoever
 capture
@@ -35246,7 +35123,6 @@ republique
 shoot
 sickle
 sparse
-l
 Brush
 HILL
 Honolulu
@@ -36365,7 +36241,6 @@ saviour
 seduction
 supplant
 twinge
-z
 Cope
 Cuzco
 Hell
@@ -37583,7 +37458,6 @@ violinist
 Aline
 Angelique
 Appearance
-Ar
 Continue
 Portia
 Ranald
@@ -37974,7 +37848,6 @@ Bartja
 Helden
 Tolstoy
 doctrinal
-d
                  r
 fathers'
 fix'd
@@ -38927,7 +38800,6 @@ HORACE
 Monkey
 Sundays
 condolence
-g
 giggled
 retourne
 Clubs
@@ -39760,7 +39632,6 @@ whirring
 Clodius
 Odo
 Stands
-awa
 battu
 comble
 felicity
@@ -40610,7 +40481,6 @@ causait
 circuit
 d'or
 indulges
-o
 palsy
 sightless
 unwary
@@ -42767,7 +42637,6 @@ dines
 doce
 pealing
 primroses
-r
 relentlessly
 scared
 sidewalk
@@ -42928,7 +42797,6 @@ Hakon
 Lloyd's
 Rousseau's
 Vicenza
-Wa
 Wally
 caballo
 edifice
@@ -44058,7 +43926,6 @@ poursuivre
 roun'
 slays
 står
-s
                                                               ger
 tackled
 Bastard
@@ -44487,7 +44354,6 @@ lowers
 neiti
 picnics
 swindle
-t
 Humble
 Mirth
 Picardy
@@ -46432,7 +46298,6 @@ sweat
 usurer
 vastaan
 would'st
-wt
 'your
 Andere
 Delsarte
@@ -47066,8 +46931,6 @@ stak
 takana
 ubiquitous
 vanhan
-wa
-AUNT
 BENJAMIN
 Coeur
 Hattie
@@ -47076,7 +46939,6 @@ Memories
 Moreton
 REAL
 answering
-ca'
 churning
 craftsman
 critically
@@ -47093,7 +46955,6 @@ Masque
 Tammany
 brewer
 couvrir
-dÃ­a
 eigentliche
 encouraging
 evolutionary
@@ -47122,7 +46983,6 @@ Sport
 Vaudreuil
 Walnut
 apricots
-bec
 beguiling
 betrachten
 claps
@@ -47162,7 +47022,6 @@ Dupin
 Gregory
 Haughton
 Hunt's
-J.S.
 Knowles
 Pharao
 SONG
@@ -47301,7 +47160,6 @@ Parva
 Pedro
 Robrecht
 Satisfaction
-S
 coachman
 completement
 contamination
@@ -47755,7 +47613,6 @@ coerce
 counteracted
 fronds
 globular
-m
 nibbled
 nought
 respectability
@@ -50455,7 +50312,6 @@ MAR
 Maids
 Moseley
 Nelson
-Tr
 Trades
 adaptations
 ankles
@@ -54182,7 +54038,6 @@ Brewer
 Commandment
 Doc
 Eliot's
-Ir
 Malcolm's
 Metal
 Pardaillan
@@ -54282,7 +54137,6 @@ decrepitude
 dejar
 entrailles
 fiddles
-f
 gibes
 hes
 keskellä
@@ -54924,7 +54778,6 @@ rudes
 scrape
 sneered
 subjugate
-I
 «Eh
 Admitting
 Arne
@@ -54997,7 +54850,6 @@ doutes
 drauf
 entangling
 firmament
-g
 meandering
 offal
 over.'
@@ -55332,7 +55184,6 @@ lewdness
 låta
 moistening
 noemen
-nt
 obviated
 personages
 protocol
@@ -56751,8 +56602,6 @@ Henri's
 Marching
 Methode
 NEXT
-N
-                                                 r
 Quarters
 Savannah
 Sorrows
@@ -57641,7 +57490,6 @@ ketään
 l'espèce
 monotheism
 muskets
-o
 optics
 overawe
 palate
@@ -60255,7 +60103,6 @@ med
 micht
 movies
 nadat
-na
 passport
 quaffed
 roule
@@ -60278,14 +60125,12 @@ SEARCH
 Saving
 Stretch
 Tyne
-XLVII
 Yorke
 acquisition
 am.'
 append
 bucklers
 bunched
-d'aucune
 durer
 emission
 encamped
@@ -60343,7 +60188,6 @@ lifeless
 parasols
 perder
 portraying
-quelli
 recedes
 relics
 repassed
@@ -61037,7 +60881,6 @@ l'article
 l'incendie
 lapis
 lavait
-m'
 manipulate
 mathematically
 minuun
@@ -61054,7 +60897,6 @@ regards
 rust
 tate
 tub
-'arf
 Alsatian
 Awfully
 Clan
@@ -61123,7 +60965,6 @@ egotist
 engrave
 firstfruits
 friable
-gain'd
 grooved
 guano
 imaginer
@@ -61144,7 +60985,6 @@ weinen
 werd
 widout
 wrang
-'low
 Aesthetic
 Dine
 Erklärung
@@ -61170,7 +61010,6 @@ hacks
 histoire
 interjection
 kaikesta
-l'ambition
 lisäsi
 mots
 necessaires
@@ -61229,7 +61068,6 @@ stealing
 tehty
 topping
 zij
-'Tes
 Anselme
 Arran
 Boulevards
@@ -61240,7 +61078,6 @@ Guided
 Ladd
 Laurens
 Nacht
-Nan's
 Toots
 Turgot
 Uther
@@ -61251,10 +61088,9 @@ chases
 chef
 cot
 crock
-d'Arc
 dreamily
 duct
-dyin'
+dyin
 echa
 edel
 enlevé
@@ -61272,7 +61108,6 @@ preoccupations
 promettre
 purlieus
 quune
-sailors'
 sogenannten
 stemming
 stems
@@ -61293,7 +61128,6 @@ asters
 beenen
 bludgeon
 cherchaient
-d'Etat
 deported
 disfavour
 dormir
@@ -61307,7 +61141,7 @@ hurdles
 intermixture
 itsekseen
 largesse
-leavin'
+leavin
 lingo
 menials
 mo
@@ -62671,9 +62505,7 @@ COOK
 Cushing
 Custis
 Dolch
-Ir
 LINE
-LVI
 Meditations
 Newstead
 Noel's
@@ -64742,7 +64574,6 @@ l'appelait
 l'avoue
 marteau
 miniature
-nd
 nightmares
 penniless
 prepossessions
@@ -64904,7 +64735,6 @@ Proprietors
 Schuster
 Secretly
 Slone
-Tra
 axles
 besuchen
 brooches
@@ -67507,7 +67337,6 @@ reyes
 rupture
 scrupules
 seethed
-ut
 verdadera
 waarlijk
 watches
@@ -68669,7 +68498,6 @@ stirrings
 trennen
 typify
 unhorsed
-wi
 wuth
 «Oh
 Adventurers
@@ -70002,7 +69830,6 @@ ROLF
 Roused
 Rushworth
 Schwelle
-TR
 batiment
 bookshelves
 conch
@@ -70019,7 +69846,6 @@ mew
 mijner
 notary's
 nube
-osl
 outgrow
 purchaser
 recant
@@ -70118,7 +69944,6 @@ JOANNA
 Jove
 Judaism
 Juvenile
-LII
 Lamanites
 Maddalena
 Paoli
@@ -70149,7 +69974,6 @@ l'atelier
 mijlen
 mischievous
 modelul
-m
                                n
 naufrage
 penurious
@@ -70694,7 +70518,6 @@ hollyhocks
 incline
 insinuates
 j'allai
-k
 kädessä
 lyes
 mach
@@ -71454,7 +71277,6 @@ disarmament
 domo
 doubloons
 drew
-d
                                    rfr
 excrescences
 flagrantly
@@ -72043,7 +71865,6 @@ Photographs
 Praised
 Reichs
 Residenz
-Ri
 Saracens
 Spoon
 Stations
@@ -72297,7 +72118,6 @@ satanic
 shrinkage
 shrubby
 sinae
-tr
 tyro
 violettes
 viscous
@@ -73664,7 +73484,6 @@ kilometer
 manda
 mensonges
 mußte
-na
 naturales
 overheated
 penitent
@@ -74728,7 +74547,6 @@ indiscreetly
 l'attente
 loadstone
 lourdes
-l
 meats
 of'
 productive

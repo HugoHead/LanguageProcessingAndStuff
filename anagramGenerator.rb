@@ -1,3 +1,10 @@
+$t0 = Time.now
+
+trap "SIGINT" do
+  puts "Ran for #{Time.now - $t0} seconds."
+  exit 130
+end
+
 def removeSpaces word
 	return word.split(" ").join('')
 end
@@ -14,6 +21,27 @@ def findWordsWithGivenNumberOfLetters words, num
 		end
 	end
 	return returnArray
+end
+
+def findAllPerms list, k, maxlength = 0
+  k = k-2
+  #return list.combination(k).uniq.sort
+  if maxlength < 1
+    return list.combination(k).to_a
+  end
+  listsave = list 
+  returnArray = []
+  k.times do |n|
+    print "#{n}/#{k}\r"
+    list.each do |m|
+      if m.length.to_i > maxlength+n+1 && n > 0
+        #list = list.delete(m)
+      end
+    end
+    returnArray += list.combination(n).to_a
+    list = listsave 
+  end
+  return returnArray.uniq
 end
 
 def isAnagram str1, str2
@@ -48,13 +76,12 @@ def oneWordGrams wordList, word
 	return newwordList
 end
 
-def multiWordGrams wordList, word, counter = -1 
-  counter = word.length
+def multiWordGrams wordList, word, counter = word.length-1
+  wordList = wordList.uniq.sort
+  puts "#{wordList.length} possible words found"
 
-  puts "finding permutations"
-  puts wordList.length
-
-  listOfWordCombos= wordList.permutation(counter).to_a
+  listOfWordCombos = findAllPerms wordList, word.length, maxLength = counter
+  puts "seting up sets for merging"
   gonnaCheck = []
 
   puts "Merging sets"
@@ -62,21 +89,20 @@ def multiWordGrams wordList, word, counter = -1
   runner = 0
   tester = ""
   listOfWordCombos.each do |n|
-  	#print "#{(runner/listOfWordCombos.length)*100}\% complete. \r"
-  	tester = n.join(" ")
-  	print "#{runner}\r"
+    tester = n.join(" ")
+    print "#{runner}/#{listOfWordCombos.length} (#{runner*100/listOfWordCombos.length}\%)\r"
   	if (removeSpaces tester).length == word.length
     	gonnaCheck.push(tester)
     end
     runner +=1
   end
-
   return check gonnaCheck, word
 end
  	
 def findAnagram input
+  $t0 = Time.now
 	input.downcase!
-	input = input.split(' ').join('')
+  input = removeSpaces input
 	puts "input is: #{input}"
 	stringArray = input.downcase.split('')
 
@@ -85,7 +111,9 @@ def findAnagram input
 	#find all the words with anything in common with the input
 	$englishWords.each do |n|
 		if anythingInCommon(n.split(''), stringArray)
-			canadateWords.push(n)
+      if n.length <= stringArray.length
+			  canadateWords.push(n)
+      end
 		end
 	end
 
@@ -109,7 +137,7 @@ def findAnagram input
 
 	multiWordAnagrams = multiWordGrams viableWords, input
 
-	return oneWordAnagrams + multiWordAnagrams
+  return (oneWordAnagrams + multiWordAnagrams).uniq
 end
 
 lettersFile = File.open("./wiki-100k.txt")
@@ -124,4 +152,5 @@ stringArray = str.downcase.split('')
 $viablePhrases = []
 $workingPhrase = ""
 
-puts "Here are the possible one-word anagrams: #{findAnagram str}"
+puts "Here are the possible anagrams: #{findAnagram str}"
+puts "Completed in #{Time.now - $t0} seconds."
