@@ -24,7 +24,7 @@ def findWordsWithGivenNumberOfLetters words, num
 end
 
 def findAllPerms list, k, maxlength = 0
-  k = k-2
+  k = maxlength-3
   #return list.combination(k).uniq.sort
   if maxlength < 1
     return list.combination(k).to_a
@@ -33,9 +33,10 @@ def findAllPerms list, k, maxlength = 0
   returnArray = []
   k.times do |n|
     print "#{n}/#{k}\r"
+    #puts list.join("\" \"")
     list.each do |m|
       if m.length.to_i > maxlength+n+1 && n > 0
-        #list = list.delete(m)
+        list = list.delete(m)
       end
     end
     returnArray += list.combination(n).to_a
@@ -60,6 +61,7 @@ def check listToCheck, wordToCheck
 	counter = 0
 
 	listToCheck.each do |n|
+    puts "checking list"
 		print "#{counter} \r"
 		runner = removeSpaces (n)
 		if isAnagram runner, wordToCheck
@@ -68,6 +70,30 @@ def check listToCheck, wordToCheck
 		counter += 1
 	end
 	return returnArray.uniq
+end
+
+def doublicates string
+  string = string.split("")
+  dup = string.select{|element| string.count(element) > 1 }
+  return dup
+end
+
+def hasDoublicates canadates, string
+  start = canadates
+  string = string.split("")
+  if canadates.class == String
+    return false
+  end
+  canadates.each do |n|
+    if string.include? (n)
+      canadates.delete(n)
+      string.delete(n)
+    end
+  end
+  if (start & canadates) == canadates
+    return false
+  end
+  return true
 end
 
 def oneWordGrams wordList, word
@@ -119,30 +145,30 @@ def findAnagram input
 
 	unviableWords = []
 
-	#remove all the words with 
+  dubs = []
+	#remove all the words with things the input does not have
 	canadateWords.each do |m|
 		#see if n has stuff that our word does not
-		if !(m.split('') - stringArray == [])
+    dubs = doublicates m
+    if !(m.split('') - stringArray == [])
 			unviableWords.push(m)
-		end
+    elsif hasDoublicates dubs, input
+      puts m
+      unviableWords.push(m)
+    end
 	end
 
 	viableWords = canadateWords - unviableWords
-
-  #puts "here"
-
 	oneWordAnagrams = oneWordGrams viableWords, input
-
-  #puts "here"
-
 	multiWordAnagrams = multiWordGrams viableWords, input
 
-  return (oneWordAnagrams + multiWordAnagrams).uniq
-end
+  unusedWord = viableWords - multiWordAnagrams.map {|index| index.split(" ")}.flatten
+  puts unusedWord.uniq
 
+  return (multiWordAnagrams + oneWordAnagrams)
+end
 lettersFile = File.open("./wiki-100k.txt")
 $englishWords = lettersFile.readlines.map(&:chomp)
-
 
 puts "Input string to anagram."
 str = gets.chomp()
