@@ -61,7 +61,6 @@ def check listToCheck, wordToCheck
 	counter = 0
 
 	listToCheck.each do |n|
-    puts "checking list"
 		print "#{counter} \r"
 		runner = removeSpaces (n)
 		if isAnagram runner, wordToCheck
